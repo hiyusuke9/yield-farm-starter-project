@@ -22,6 +22,9 @@
     "truffle": "5.1.39",
     "web3": "1.2.11"
   },
+  "engines": {
+    "node": "v16.20.0"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
